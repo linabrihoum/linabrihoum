@@ -2,23 +2,47 @@
     <!-- Black background -->
     <rect width="100%" height="100%" fill="black" />
 
-    <!-- Gradient text -->
+    <!-- Seamless animated gradient text -->
     <defs>
-        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <linearGradient id="seamlessGradient" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" style="stop-color:rgb(0,128,0);stop-opacity:1" />
-            <stop offset="25%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
-            <stop offset="50%" style="stop-color:rgb(255,255,0);stop-opacity:1" />
-            <stop offset="75%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
-            <stop offset="100%" style="stop-color:rgb(0,128,0);stop-opacity:1" />
+            <stop offset="20%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
+            <stop offset="40%" style="stop-color:rgb(255,255,0);stop-opacity:1" />
+            <stop offset="60%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
+            <stop offset="80%" style="stop-color:rgb(0,128,0);stop-opacity:1" />
+            <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
+            <!-- Animation for seamless gradient -->
+            <animate attributeName="x1" values="-100%;0%" dur="10s" repeatCount="indefinite" />
+            <animate attributeName="x2" values="0%;100%" dur="10s" repeatCount="indefinite" />
         </linearGradient>
     </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="48" font-style="italic" fill="url(#gradient)">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="48" font-style="italic" fill="url(#seamlessGradient)">
         Lina Brihoum
     </text>
 
-    <!-- Snowflakes around the text -->
-    <text x="30%" y="40%" font-size="24" fill="white">❄️</text>
-    <text x="70%" y="40%" font-size="24" fill="white">❄️</text>
-    <text x="20%" y="60%" font-size="24" fill="white">❄️</text>
-    <text x="80%" y="60%" font-size="24" fill="white">❄️</text>
+    <!-- Enhanced animated snowflakes -->
+    <!-- Snowflake 1 -->
+    <text x="30%" y="40%" font-size="24" fill="white">❄️
+        <animateMotion path="M 0,0 Q 50,-50 100,0 T 200,0" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <!-- Snowflake 2 -->
+    <text x="70%" y="40%" font-size="24" fill="white">❄️
+        <animateMotion path="M 0,0 Q 50,50 100,0 T 200,0" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <!-- Snowflake 3 -->
+    <text x="20%" y="60%" font-size="24" fill="white">❄️
+        <animateMotion path="M 0,0 Q 50,-50 100,0 T 200,0" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <!-- Snowflake 4 -->
+    <text x="80%" y="60%" font-size="24" fill="white">❄️
+        <animateMotion path="M 0,0 Q 50,50 100,0 T 200,0" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <!-- Snowflake 5 -->
+    <text x="10%" y="50%" font-size="24" fill="white">❄️
+        <animateMotion path="M 0,0 Q 50,-50 100,0 T 200,0" dur="15s" repeatCount="indefinite"/>
+    </text>
+    <!-- Snowflake 6 -->
+    <text x="90%" y="50%" font-size="24" fill="white">❄️
+        <animateMotion path="M 0,0 Q 50,50 100,0 T 200,0" dur="15s" repeatCount="indefinite"/>
+    </text>
 </svg>
