@@ -1,10 +1,12 @@
-<div id="header" align="center">
-  <p> Hi there! I'm Lina Brihoum, a passionate engineer :) </p>
-</div>
+
+
+<h1 align="center">
+  <img src="https://github.com/lbrihoum/lbrihoum/blob/main/name.svg" alt="Lina Brihoum" />
+</h1>
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
+  <p> Hey there, I'm Lina, a passionate engineer :) </p>
 </div>
 
 <br>
