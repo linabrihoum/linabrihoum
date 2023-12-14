@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <b>*About Me*:</b> \
-  🎓 &nbsp;I'm currently work at IBM as a Cloud Architect specalizing in Hybrid Cloud, Site Relability, and Artificial Intelligence.\
+  🎓 &nbsp;I currently work at IBM as a Cloud Architect specalizing in Hybrid Cloud, Site Relability, and Artificial Intelligence.\
   💡 &nbsp;Some technologies I enjoy working with include Python, Amazon Web Services, Docker/Kubernetes, Terraform.\
   🌱 &nbsp;I'm currently blogging my cloud journey at  ```(https://linabrihoum.com/)```.\
   ✉️ &nbsp;Get in touch with me via email at ```brihoumlina@gmail.com```. 
