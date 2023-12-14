@@ -1,9 +1,10 @@
-
+<!--
 
 <h1 align="center">
   <img src="https://github.com/lbrihoum/lbrihoum/blob/main/name.svg" alt="Lina Brihoum" />
 </h1>
 
+-->
 
 <div id="header" align="center">
   <p> Hey there, I'm Lina, a passionate engineer :) </p>
