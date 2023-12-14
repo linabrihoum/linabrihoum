@@ -11,12 +11,10 @@
 <div id="header" align="center">
   <p>  🎓 &nbsp;I currently work at IBM as a Cloud Architect specalizing in Hybrid Cloud, Site Relability, and Artificial Intelligence </p>
 
-  <p>   🌱 &nbsp;I'm currently blogging my tech journey on [my website!](https://linabrihoum.com/) </p>
-
+  <p>   🌱 &nbsp;I'm currently blogging my tech journey on <a href="https://linabrihoum.com/"> my website! </a> </p> 
 
 
 <br>
-
  
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
