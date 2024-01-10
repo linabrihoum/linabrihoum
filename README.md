@@ -4,6 +4,8 @@
   <img src="https://github.com/lbrihoum/lbrihoum/blob/main/name.svg" alt="Lina Brihoum" />
 </h1>
 
+  <p>   🌱 &nbsp;I'm currently blogging my tech journey on <a href="https://linabrihoum.com/"> my website! </a> </p> 
+
 -->
 
 <div id="header" align="center">
@@ -13,8 +15,6 @@
 <br>
 <div id="header" align="center">
   <p>  🎓 &nbsp;I currently work at IBM as a Cloud Architect specalizing in Hybrid Cloud, Site Relability, and Artificial Intelligence </p>
-
-  <p>   🌱 &nbsp;I'm currently blogging my tech journey on <a href="https://linabrihoum.com/"> my website! </a> </p> 
 
 
 <br>
