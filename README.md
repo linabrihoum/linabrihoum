@@ -14,7 +14,7 @@
 
 <br>
 <div id="header" align="center">
-  <p>  🎓 &nbsp;I currently work at IBM as a Cloud Architect specalizing in Hybrid Cloud, Site Relability, and Artificial Intelligence </p>
+  <p>  🎓 &nbsp;I currently work at IBM as a Cloud Architect specalizing in Hybrid Cloud, DevSecOps, Site Relability, and Artificial Intelligence </p>
 
 
 <br>
