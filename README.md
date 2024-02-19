@@ -15,6 +15,7 @@
 <br>
 <div id="header" align="center">
   <p>  🎓 &nbsp;I currently work at IBM as a Cloud Architect specalizing in Hybrid Cloud, DevSecOps, Site Relability, and Artificial Intelligence </p>
+  <p>   🌱 &nbsp;I'm currently blogging my tech journey on <a href="https://linabrihoum.com/"> my website! </a> </p> 
 
 
 <br>
@@ -43,10 +44,6 @@
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">  
 </a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white">
-  </a>
 
 </div>
 
