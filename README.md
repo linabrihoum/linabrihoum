@@ -1,6 +1,6 @@
 ### Hey there, I'm Lina  :smile:
 
-I am a passionate Cloud Architect & Manager with a strong background in developing, deploying, and maintaining scalable applications and infrastructures.
+I am a passionate Cloud Architect & Manager with a strong background in developing, deploying, and maintaining scalable applications.
 
 [My Blog](https://linabrihoum.com)
 
