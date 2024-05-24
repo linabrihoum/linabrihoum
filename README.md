@@ -5,7 +5,6 @@ I am a passionate Cloud Architect & Manager with a strong background in developi
 [My Blog](https://linabrihoum.com)
 
 ---
-
 ### 🛠️ Tech Stack
 
 **DevOps & Cloud:**
@@ -18,8 +17,6 @@ I am a passionate Cloud Architect & Manager with a strong background in developi
 - **Languages:** Python, Bash, JavaScript/TypeScript, Java, Swift, Kotlin
 - **Frontend:** HTML, CSS, TailwindCSS, JavaScript, TypeScript, React, Angular, NextJS
 - **Mobile Development:** Flutter (Dart), Xcode (Swift/SwiftUI), Android Studio (Java/Kotlin)
-- **APIs:** REST, GraphQL
-
 ---
 
 ### 🌱 What I'm currently working on
