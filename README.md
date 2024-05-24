@@ -1,63 +1,30 @@
-<!--
+### Hey there, I'm Lina  :smile:
 
-<h1 align="center">
-  <img src="https://github.com/lbrihoum/lbrihoum/blob/main/name.svg" alt="Lina Brihoum" />
-</h1>
+I am a passionate Cloud Architect & Manager with a strong background in developing, deploying, and maintaining scalable applications and infrastructures. </br> Engineering is in my DNA; I was fortunate to grow up as the daughter of a respected Engineer and STEM professor who introduced me early to the world of robotics, igniting my passion for technology and science. With a decade of experience across game and website development, mobile applications, cloud computing, AI, and cybersecurity, I continuously broaden my skill set and contribute to technological advancements. I am dedicated to advocating for the tech community by creating open-source materials, speaking at conferences, and facilitating bootcamps to inspire and empower others.
 
-  <p>   🌱 &nbsp;I'm currently blogging my tech journey on <a href="https://linabrihoum.com/"> my website! </a> </p> 
+[My Blog](https://linabrihoum.com)
 
--->
+---
 
-<div id="header" align="center">
-  <p> Hey there, I'm Lina, a passionate engineer :) </p>
-</div>
+### 🛠️ Tech Stack
 
-<br>
-<div id="header" align="center">
-  <p>  🎓 &nbsp;I am a Cloud Architect specalizing in Hybrid Cloud, DevSecOps, Site Relability, and Artificial Intelligence </p>
-  <p>   🌱 &nbsp;I'm currently blogging my tech journey on <a href="https://linabrihoum.com/"> my website! </a> </p> 
+**DevOps & Cloud:**
+- **Cloud Providers:** Amazon Web Services and Microsoft Azure
+- **Infrastructure as Code:** Terraform, CloudFormation, Bicep
+- **CI/CD:** Azure DevOps, GitLab CI, GitHub Actions, Jenkins, CircleCI
+- **Containerization & Orchestration:** Docker, Kubernetes, ECS, EKS, AKS
 
+**Fullstack Development:**
+- **Languages:** Python, Bash, JavaScript/TypeScript, Java, Swift, Kotlin
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Angular, NextJS, HTML, CSS
+- **Mobile Development:** Flutter (Dart), Xcode (Swift/SwiftUI), Android Studio (Java/Kotlin)
+- **APIs:** REST, GraphQL
 
-<br>
- 
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
- </a>
+---
 
-  <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    </a>
-    
-   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</a>
+### 🌱 What I'm currently working on
 
-  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-</a>
-
-<br>
- <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">  
-</a>
-
-</div>
-
-<!--
-**lbrihoum/lbrihoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building scalable cloud architectures for enterprise applications.
+- Creating custom IaC templates for clients
+- Developing open-source DevSecOps tools to enhance security in CI/CD pipelines.
+- Conducting workshops and bootcamps to empower engineers with the latest DevOps practices.
