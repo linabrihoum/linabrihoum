@@ -10,14 +10,13 @@ I am a passionate Cloud Architect & Manager with a strong background in developi
 - **Cloud Providers:** Amazon Web Services and Microsoft Azure
 - **Infrastructure as Code:** Terraform, CloudFormation, Bicep
 - **CI/CD:** Azure DevOps, GitLab CI, GitHub Actions, Jenkins, CircleCI
-- **Containerization & Orchestration:** Docker, Kubernetes, ECS, EKS, AKS
 - **Web Development:** HTML, CSS, TailwindCSS, JavaScript, TypeScript, React, Angular, NextJS
 - **Mobile Development:** Flutter (Dart), Xcode (Swift/SwiftUI), Android Studio (Java/Kotlin)
 ---
 
 ### 🌱 What I'm currently working on
 
-- Building scalable cloud architectures for enterprise applications.
+- Building scalable cloud architectures for enterprise applications
 - Creating custom IaC templates for clients
-- Developing open-source DevSecOps tools to enhance security in CI/CD pipelines.
-- Conducting workshops and bootcamps to empower engineers with the latest DevOps practices.
+- Developing open-source DevSecOps resources to ace an interview
+- Conducting workshops and bootcamps to empower engineers with the latest DevOps practices
