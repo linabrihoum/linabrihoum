@@ -8,13 +8,11 @@ I am a passionate Cloud Architect & Manager with a strong background in developi
 ### 🛠️ Tech Stack
 
 **DevOps & Cloud:**
+- **Languages:** Python, Bash, JavaScript/TypeScript, Java, Swift, Kotlin
 - **Cloud Providers:** Amazon Web Services and Microsoft Azure
 - **Infrastructure as Code:** Terraform, CloudFormation, Bicep
 - **CI/CD:** Azure DevOps, GitLab CI, GitHub Actions, Jenkins, CircleCI
 - **Containerization & Orchestration:** Docker, Kubernetes, ECS, EKS, AKS
-
-**Fullstack Development:**
-- **Languages:** Python, Bash, JavaScript/TypeScript, Java, Swift, Kotlin
 - **Web Development:** HTML, CSS, TailwindCSS, JavaScript, TypeScript, React, Angular, NextJS
 - **Mobile Development:** Flutter (Dart), Xcode (Swift/SwiftUI), Android Studio (Java/Kotlin)
 ---
