@@ -6,8 +6,6 @@ I am a passionate Cloud Architect & Manager with a strong background in developi
 
 ---
 ### 🛠️ Tech Stack
-
-**DevOps & Cloud:**
 - **Languages:** Python, Bash, JavaScript/TypeScript, Java, Swift, Kotlin
 - **Cloud Providers:** Amazon Web Services and Microsoft Azure
 - **Infrastructure as Code:** Terraform, CloudFormation, Bicep
