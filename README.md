@@ -16,7 +16,7 @@ I am a passionate Cloud Architect & Manager with a strong background in developi
 
 **Fullstack Development:**
 - **Languages:** Python, Bash, JavaScript/TypeScript, Java, Swift, Kotlin
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Angular, NextJS, HTML, CSS
+- **Frontend:** HTML, CSS, TailwindCSS, JavaScript, TypeScript, React, Angular, NextJS
 - **Mobile Development:** Flutter (Dart), Xcode (Swift/SwiftUI), Android Studio (Java/Kotlin)
 - **APIs:** REST, GraphQL
 
