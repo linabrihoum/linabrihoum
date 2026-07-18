@@ -8,6 +8,6 @@ Check out [my blog](https://linabrihoum.com) where I talk about the latest tech 
 
 ### 🌱 What I'm currently working on
 
-- Building scalable cloud architectures for enterprise applications
-- Creating custom IaC templates for clients
-- Developing open-source DevSecOps resources to ace an interview
+- Cloud Job Board that is dedicating to showing the latest cloud, platform, SRE, and DevOps positions!
+- Creating custom IaC templates
+- Automatic finance bot trader that algorithmic trains aganist multiple strategies 
